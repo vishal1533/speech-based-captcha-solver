@@ -3,7 +3,7 @@
 A speech based captcha solver application trained on 10 different words.
 
 
-##Contributers
+## Contributers
 
 Samiul Haque(224101044)
 
