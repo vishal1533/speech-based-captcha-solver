@@ -1,19 +1,26 @@
-Submitted by - 
-                        Samiul Haque(224101044)
-			Amit Kumar(224101006)
-			Vishal Chinchkhede(224101057)
-			
+# Speech Based Captcha Solver
 
-Instructions to run the program :- 
+A speech based captcha solver application trained on 10 different words.
 
-1)  Open the zip file and  extract it.
 
-2) Open the project(.sln) in visual studio 2010.
+##Contributers
 
-3) Run the program, and the user interface will appear..
+Samiul Haque(224101044)
 
-4)  You can tap on to help button to guide you.
+Amit Kumar(224101006)
 
-5) Then you are ready to use it .
+Vishal Chinchkhede(224101057)
+
+### Instructions to run the aplication :- 
+
+1)  Open the zip file and extract it.
+
+2) Open the project(.sln) in Visual Studio 2010.
+
+3) Run the program, and the user interface will appear.
+
+4)  You can tap on the help button to guide you.
+
+5) Then you are ready to use it.
 
 6) You should watch the demo video if any issues arise. 
