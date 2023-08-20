@@ -1,0 +1,20 @@
+Captcha Project (CS-566)
+
+Submitted by-
+(Group - )
+			Amit Kumar(224101006)
+			Vishal Chinchkhede(224101057)
+			Samiul Haque(224101044)
+
+Guidelines to follow before using the Application
+
+-> To train the model, first click the "Train" button. The training process takes about 35 to 40 seconds to finish. Be patient, please.
+
+->The model's correctness can then be verified using both known and unknown data, if desired. The information is located in the project's Recordings folder,
+ while the hidden information is in the subfolder test. This information is provided so that the user, if they choose, can substitute their own data with the existing data and test the programme.
+
+-> After the model is trained we can check the model in live testing environment.
+
+-> If the spoken word matches the captcha, a button is shown that temporarily accesses the Google home page.
+As this speech-based captcha solver may be a crucial sub module for a larger system, this is there as a placeholder until this system is not a part of one like a login page. 
+
